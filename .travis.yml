@@ -20,4 +20,4 @@ branches:
 env:
     global:
         - GH_REF_GITHUB: github.com/yohole/yohole.github.io.git
-        - GH_REF_GITEE: gitee.com/490767385/yohole.gitee.com.git
+        - GH_REF_GITEE: gitee.com/yohole/yohole.git
