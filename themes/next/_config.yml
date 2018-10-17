@@ -240,7 +240,7 @@ post_wordcount:
 wechat_subscriber:
   enabled: true
   qcode: /uploads/wechat-qcode.jpg
-  description: Talk is cheap. Show me the code.
+  description: 交流是进步的最大途径
 
 # Reward
 #reward_comment: Donate comment here
